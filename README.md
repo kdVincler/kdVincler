@@ -1,7 +1,7 @@
 # Hi there, my name is Konrad Dominik Vincler! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 💫 About Me:
-I'm a CS Student at Queen Mary University of London and an aspiring web and software developer. Currantly I'm working as a Demonstrator at my university.
+I'm a CS Student at Queen Mary University of London and an aspiring web and software developer. Currently I'm working as a Demonstrator at my university.
 
 
 ## 🌐 Socials:
