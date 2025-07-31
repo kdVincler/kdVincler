@@ -7,7 +7,7 @@ I'm a CS Student at Queen Mary University of London and an aspiring web and soft
 ## 🌐 Socials:
 
 ##### My LinkedIn:
-<a href="https://www.linkedin.com/in/konrad-dominik-vincler-55753225a/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/konradvincler" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a> 
 
 ##### My Portfolio:
 All of my projects, my CV and informaton are available at my portfolio website at <a href="https://www.konradvincler.com" target="_blank">this link.</a>
