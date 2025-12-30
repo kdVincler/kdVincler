@@ -1,7 +1,7 @@
 # Hi there, my name is Konrad Dominik Vincler! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 💫 About Me:
-I'm a recent Graduate of CS from Queen Mary University of London, where I achieved a First Class Bachelors. Currently working as a Junior Full Stack Software Engineer.
+I'm a recent Graduate of CS from Queen Mary University of London, where I achieved a First Class Bachelors. Currently working as a Software Engineer @ Efficura Solutions.
 
 
 ## 🌐 Socials:
